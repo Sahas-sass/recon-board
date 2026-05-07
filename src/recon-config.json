@@ -5,15 +5,35 @@
     "React",
     "Next.js",
     "JavaScript",
+    "TypeScript",
+    "Node.js",
+    "Spring",
+    "SQL",
+    "AWS",
     "Software Engineer",
     "Developer",
     "Frontend",
-    "Backend"
+    "Backend",
+    "Full Stack",
+    "Junior",
+    "Entry Level",
+    "Intern",
+    "Internship",
+    "New Grad",
+    "Associate"
   ],
   "exclusion_keywords": [
     "Senior",
     "Staff",
     "Principal",
-    "Manager"
+    "Manager",
+    "Lead",
+    "Director",
+    "Architect",
+    "VP",
+    "Head",
+    "Experienced",
+    "II",
+    "III"
   ]
 }
